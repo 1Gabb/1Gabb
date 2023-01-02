@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1Gabb
+- Hi I'm Gabb
 - 👀 I’m interested in  Programming in Flutter I'm a beginner in the area but I can help!
 - 🌱 I’m currently learning programming in flutter
 - 💞️ I’m looking to collaborate on With People Who Use Dart as a Programming Code
